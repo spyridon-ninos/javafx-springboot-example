@@ -1,0 +1,2 @@
+eventsEndpoint:
+  url: http://localhost:2000/eventsService
